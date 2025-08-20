@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Valentyn Domanskyi
 
-<!--
-**domanskyi/domanskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer based in Krakow, Poland, passionate about building modern web applications and scalable solutions.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Node.js** | **React** | **Next.js**
+- **Python**
+- **Google Cloud Platform**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Featured Project
+Check out my personal website: [valentyndomanskyi.com](https://www.valentyndomanskyi.com/)
+
+## ✈️ About Me
+- Avid traveler & hiking enthusiast — I love exploring new places and cultures.
+- Always eager to learn, solve tough problems, and collaborate on exciting projects.
+
+## 📫 Connect with Me
+- [Website](https://www.valentyndomanskyi.com/)
+- [LinkedIn](https://www.linkedin.com/in/v-domanskyi/)
+
+---
+
+_Thanks for stopping by!_
