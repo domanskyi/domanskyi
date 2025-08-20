@@ -7,9 +7,6 @@ I'm a Software Engineer based in Krakow, Poland, passionate about building moder
 - **Python**
 - **Google Cloud Platform**
 
-## 🌐 Featured Project
-Check out my personal website: [valentyndomanskyi.com](https://www.valentyndomanskyi.com/)
-
 ## ✈️ About Me
 - Avid traveler & hiking enthusiast — I love exploring new places and cultures.
 - Always eager to learn, solve tough problems, and collaborate on exciting projects.
