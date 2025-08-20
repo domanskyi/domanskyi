@@ -5,7 +5,6 @@ I'm a Software Engineer based in Krakow, Poland, passionate about building moder
 ## 💻 Tech Stack
 - **Node.js** | **React** | **Next.js**
 - **Python**
-- **Google Cloud Platform**
 
 ## ✈️ About Me
 - Avid traveler & hiking enthusiast — I love exploring new places and cultures.
